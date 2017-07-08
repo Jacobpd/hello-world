@@ -1,2 +1,3 @@
 # hello-world
-dlya prob
+cho za hren nichego ne ponimayu
+aha
